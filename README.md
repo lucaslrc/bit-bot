@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a simple BOT for Telegram.
+This project is a simple BOT for Telegram that you can config using .json file.
 	
 ## Technologies
 Project is created with:
